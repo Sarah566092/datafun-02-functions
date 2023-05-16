@@ -1,0 +1,33 @@
+2023-05-15 21:50:04,444 =============================================================
+2023-05-15 21:50:04,445 =============================================================
+2023-05-15 21:50:04,445 Today is 2023-05-15 at 09:50 PM
+2023-05-15 21:50:04,445 This file is running on: posix Darwin 20.6.0
+2023-05-15 21:50:04,445 The Python version is: 3.11.3
+2023-05-15 21:50:04,445 The active conda environment is:  None
+2023-05-15 21:50:04,445 The active pip environment is:    None
+2023-05-15 21:50:04,445 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-15 21:50:04,446 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-15 21:50:04,446 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-15 21:50:04,446 =============================================================
+2023-05-15 21:50:04,446 =============================================================
+2023-05-15 21:50:04,446 Created: NumericWeatherSeries with name=Monday Temperatures, units=F, location=Maryville MO, and 5 data points: [55.8, 63.4, 72.4, 78, 76.3]
+2023-05-15 21:50:04,446 Created: NumericWeatherSeries with name=Tuesday Temperatures, units=F, location=Maryville MO, and 7 data points: [66.2, 67.2, 55.8, 63.4, 72.4, 73.1, 76.3]
+2023-05-15 21:50:04,446 Created: NumericWeatherSeries with name=Wednesday Temperatures, units=F, location=Maryville MO, and 13 data points: [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+2023-05-15 21:50:04,446 NumericWeatherSeries with name=Monday Temperatures, units=F, location=Maryville MO, and 5 data points: [55.8, 63.4, 72.4, 78, 76.3]
+2023-05-15 21:50:04,446 Count: 5
+2023-05-15 21:50:04,446 Sum: 345.90000000000003
+2023-05-15 21:50:04,446 Mean: 69.18
+2023-05-15 21:50:04,447 Median: 72.4
+2023-05-15 21:50:04,447 ------------------
+2023-05-15 21:50:04,447 NumericWeatherSeries with name=Tuesday Temperatures, units=F, location=Maryville MO, and 7 data points: [66.2, 67.2, 55.8, 63.4, 72.4, 73.1, 76.3]
+2023-05-15 21:50:04,447 Count: 7
+2023-05-15 21:50:04,447 Sum: 474.40000000000003
+2023-05-15 21:50:04,447 Mean: 67.77142857142857
+2023-05-15 21:50:04,447 Median: 67.2
+2023-05-15 21:50:04,447 ------------------
+2023-05-15 21:50:04,447 NumericWeatherSeries with name=Wednesday Temperatures, units=F, location=Maryville MO, and 13 data points: [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+2023-05-15 21:50:04,447 Count: 13
+2023-05-15 21:50:04,447 Sum: 936
+2023-05-15 21:50:04,447 Mean: 72.0
+2023-05-15 21:50:04,447 Median: 72
+2023-05-15 21:50:04,447 ------------------

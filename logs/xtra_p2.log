@@ -1,0 +1,29 @@
+2023-05-15 21:53:30,729 =============================================================
+2023-05-15 21:53:30,729 =============================================================
+2023-05-15 21:53:30,729 Today is 2023-05-15 at 09:53 PM
+2023-05-15 21:53:30,730 This file is running on: posix Darwin 20.6.0
+2023-05-15 21:53:30,730 The Python version is: 3.11.3
+2023-05-15 21:53:30,730 The active conda environment is:  None
+2023-05-15 21:53:30,730 The active pip environment is:    None
+2023-05-15 21:53:30,730 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-15 21:53:30,730 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-15 21:53:30,730 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-15 21:53:30,730 =============================================================
+2023-05-15 21:53:30,730 =============================================================
+2023-05-15 21:53:30,730 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-05-15 21:53:30,730 RETURNING bearcat
+2023-05-15 21:53:30,730 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-05-15 21:53:30,731 RETURNING bearcat
+2023-05-15 21:53:30,731 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-05-15 21:53:30,731 RETURNING hello
+2023-05-15 21:53:30,731 ===========================================================
+2023-05-15 21:53:30,731 Running doctest.testmod() function to unit test our code
+2023-05-15 21:53:30,731 ===========================================================
+2023-05-15 21:53:30,776 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-05-15 21:53:30,777 RETURNING bearcat
+2023-05-15 21:53:30,777 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-05-15 21:53:30,777 RETURNING bearcat
+2023-05-15 21:53:30,778 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-05-15 21:53:30,778 RETURNING hello
+2023-05-15 21:53:30,780 8 tests failed!
+2023-05-15 21:53:30,780 Script complete. More info in the log file.

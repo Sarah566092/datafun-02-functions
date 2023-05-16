@@ -1,0 +1,15 @@
+2023-05-15 21:54:46,347 =============================================================
+2023-05-15 21:54:46,347 =============================================================
+2023-05-15 21:54:46,347 Today is 2023-05-15 at 09:54 PM
+2023-05-15 21:54:46,348 This file is running on: posix Darwin 20.6.0
+2023-05-15 21:54:46,348 The Python version is: 3.11.3
+2023-05-15 21:54:46,348 The active conda environment is:  None
+2023-05-15 21:54:46,348 The active pip environment is:    None
+2023-05-15 21:54:46,348 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-15 21:54:46,348 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-15 21:54:46,348 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-15 21:54:46,349 =============================================================
+2023-05-15 21:54:46,349 =============================================================
+2023-05-15 21:54:46,349 Starting util_datafun_logger.py
+2023-05-15 21:54:46,349 Information is logged to: logs/logs/util_datafun_logger.log
+2023-05-15 21:54:46,349 Ending util_datafun_logger.py
