@@ -1,0 +1,49 @@
+2023-05-16 18:45:15,771 =============================================================
+2023-05-16 18:45:15,771 =============================================================
+2023-05-16 18:45:15,772 Today is 2023-05-16 at 06:45 PM
+2023-05-16 18:45:15,772 This file is running on: posix Darwin 20.6.0
+2023-05-16 18:45:15,772 The Python version is: 3.11.3
+2023-05-16 18:45:15,772 The active conda environment is:  None
+2023-05-16 18:45:15,772 The active pip environment is:    None
+2023-05-16 18:45:15,772 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-16 18:45:15,772 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-16 18:45:15,772 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-16 18:45:15,772 =============================================================
+2023-05-16 18:45:15,772 =============================================================
+2023-05-16 18:45:15,773 Explore some functions in the math module that could be good for bakery business
+2023-05-16 18:45:15,773 math.comb(8,2) = 28
+2023-05-16 18:45:15,773 math.perm(8,2) = 56
+2023-05-16 18:45:15,773 math.comb(5,2) = 10
+2023-05-16 18:45:15,773 math.perm(5,2) = 20
+2023-05-16 18:45:15,773 math.mod(6) = (0.0, 6.0)
+2023-05-16 18:45:15,773 
+2023-05-16 18:45:15,773 TRY: Call get_cake_area() function with a different values.
+2023-05-16 18:45:15,773 The cake dimensions are (length= 3inches by width= 2inches)
+2023-05-16 18:45:15,773 The cake area to frost is 6 square inches
+2023-05-16 18:45:15,773 The cake dimensions are (length= 5inches by width= 8inches)
+2023-05-16 18:45:15,773 The cake area to frost is 40 square inches
+2023-05-16 18:45:15,773 The cake dimensions are (length= 9inches by width= 13inches)
+2023-05-16 18:45:15,773 The cake area to frost is 117 square inches
+2023-05-16 18:45:15,773 The cake dimensions are (length= fiveinches by width= eightinches)
+2023-05-16 18:45:15,773 Error: can't multiply sequence by non-int of type 'str'
+2023-05-16 18:45:15,773 
+2023-05-16 18:45:15,774 TRY: Call get_special_order_invoice() function with a different values.
+2023-05-16 18:45:15,775 Special Order: # of cupcakes= 10, # of quiches= 4, # of danishes= 9)
+2023-05-16 18:45:15,775 Your bill is $73.87
+2023-05-16 18:45:15,775 Special Order: # of cupcakes= 0, # of quiches= 1, # of danishes= 30)
+2023-05-16 18:45:15,775 Your bill is $100.59
+2023-05-16 18:45:15,775 Special Order: # of cupcakes= 20, # of quiches= 20, # of danishes= 20)
+2023-05-16 18:45:15,775 Your bill is $212.80
+2023-05-16 18:45:15,775 
+2023-05-16 18:45:15,780 TRY: Call tax_on_order() function with different values.
+2023-05-16 18:45:15,781 If your food order is $100, then your total with tax is $111.00
+2023-05-16 18:45:15,781 If your food order is $350, then your total with tax is $367.50
+2023-05-16 18:45:15,782 If your food order is $20, then your total with tax is $22.00
+2023-05-16 18:45:15,782 If your food order is $89, then your total with tax is $115.70
+2023-05-16 18:45:15,782 
+2023-05-16 18:45:15,784 TRY: Call tip_on_order_() function with different values.
+2023-05-16 18:45:15,784 Your food order with 18.0% tip should be $118.0
+2023-05-16 18:45:15,784 Your food order with 18.0% tip should be $339.84
+2023-05-16 18:45:15,784 Your food order with 20.0% tip should be $60.0
+2023-05-16 18:45:15,784 Your food order with 20.0% tip should be $24.0
+2023-05-16 18:45:15,784 

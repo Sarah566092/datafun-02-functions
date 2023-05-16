@@ -32,7 +32,6 @@ from util_datafun_logger import setup_logger
 logger, logname = setup_logger(__file__)
 
 
-
 def circle_area_input_radius(radius):
     """
     Return area of a circle given the radius.
@@ -96,8 +95,8 @@ if __name__ == "__main__":
     logger.info("Explore some functions in the math module")
     logger.info(f"math.comb(5,1) = {math.comb(5,1)}")
     logger.info(f"math.perm(5,1) = {math.perm(5,1)}")
-    logger.info(f"math.comb(4,2) = {math.comb(5,3)}")
-    logger.info(f"math.perm(4,2) = {math.perm(5,3)}")
+    logger.info(f"math.comb(4,2) = {math.comb(4,2)}")
+    logger.info(f"math.perm(4,2) = {math.perm(4,2)}")
     logger.info(f"math.pi = {math.pi}")
     logger.info(f"math.degrees(2 * math.pi) = {math.degrees(2 * math.pi)}")
     logger.info(f"math.radians(180)         = {math.radians(180)}")
