@@ -33,7 +33,7 @@ logger, logname = setup_logger(__file__)
 
 
 
-def get_circle_area_given_radius(radius):
+def circle_area_input_radius(radius):
     """
     Return area of a circle given the radius.
 
@@ -48,7 +48,7 @@ def get_circle_area_given_radius(radius):
     logger.info(f"CALLING get_circle_area({radius})")
 
     try: 
-        area = 2 * math.pi * radius
+        area = math.pi * radius ** 2
         logger.info(f"The circle area is {area}")
         return area
     except Exception as ex:
@@ -75,7 +75,7 @@ def get_circle_areas_given_list(radius_list):
     for r in radius_list:
 
         try:
-            area = get_circle_area_given_radius(r)
+            area = circle_area_input_radius(r)
             logger.info(f"r = {r}, area={area}")
             area_list.append(area)
 
@@ -96,18 +96,18 @@ if __name__ == "__main__":
     logger.info("Explore some functions in the math module")
     logger.info(f"math.comb(5,1) = {math.comb(5,1)}")
     logger.info(f"math.perm(5,1) = {math.perm(5,1)}")
-    logger.info(f"math.comb(5,3) = {math.comb(5,3)}")
-    logger.info(f"math.perm(5,3) = {math.perm(5,3)}")
+    logger.info(f"math.comb(4,2) = {math.comb(5,3)}")
+    logger.info(f"math.perm(4,2) = {math.perm(5,3)}")
     logger.info(f"math.pi = {math.pi}")
     logger.info(f"math.degrees(2 * math.pi) = {math.degrees(2 * math.pi)}")
     logger.info(f"math.radians(180)         = {math.radians(180)}")
     logger.info("")
 
-    logger.info("TRY: Call get_circle_area_given_radius() function with a different values.")
-    get_circle_area_given_radius(5)
-    get_circle_area_given_radius(-16)
-    get_circle_area_given_radius(math.inf)
-    get_circle_area_given_radius('five')
+    logger.info("TRY: Call circle_area_input_radius() function with a different values.")
+    circle_area_input_radius(5)
+    circle_area_input_radius(-16)
+    circle_area_input_radius(math.inf)
+    circle_area_input_radius('five')
     logger.info("")
 
     logger.info("TRY: Call get_circle_areas_given_list() function with a list of GOOD values")

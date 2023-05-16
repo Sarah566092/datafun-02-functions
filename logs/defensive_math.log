@@ -1,66 +1,66 @@
-2023-05-15 20:40:09,439 =============================================================
-2023-05-15 20:40:09,439 =============================================================
-2023-05-15 20:40:09,439 Today is 2023-05-15 at 08:40 PM
-2023-05-15 20:40:09,439 This file is running on: posix Darwin 20.6.0
-2023-05-15 20:40:09,439 The Python version is: 3.11.3
-2023-05-15 20:40:09,440 The active conda environment is:  None
-2023-05-15 20:40:09,440 The active pip environment is:    None
-2023-05-15 20:40:09,440 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
-2023-05-15 20:40:09,440 The current working directory is: /Users/sarah/Documents/datafun-02-functions
-2023-05-15 20:40:09,440 This source file is in:           /Users/sarah/Documents/datafun-02-functions
-2023-05-15 20:40:09,440 =============================================================
-2023-05-15 20:40:09,440 =============================================================
-2023-05-15 20:40:09,440 Explore some functions in the math module
-2023-05-15 20:40:09,440 math.comb(5,1) = 5
-2023-05-15 20:40:09,440 math.perm(5,1) = 5
-2023-05-15 20:40:09,440 math.comb(5,3) = 10
-2023-05-15 20:40:09,441 math.perm(5,3) = 60
-2023-05-15 20:40:09,441 math.pi = 3.141592653589793
-2023-05-15 20:40:09,441 math.degrees(2 * math.pi) = 360.0
-2023-05-15 20:40:09,441 math.radians(180)         = 3.141592653589793
-2023-05-15 20:40:09,441 
-2023-05-15 20:40:09,441 TRY: Call get_circle_area_given_radius() function with a different values.
-2023-05-15 20:40:09,441 CALLING get_circle_area(5)
-2023-05-15 20:40:09,441 The circle area is 31.41592653589793
-2023-05-15 20:40:09,441 CALLING get_circle_area(-16)
-2023-05-15 20:40:09,441 The circle area is -100.53096491487338
-2023-05-15 20:40:09,441 CALLING get_circle_area(inf)
-2023-05-15 20:40:09,441 The circle area is inf
-2023-05-15 20:40:09,441 CALLING get_circle_area(five)
-2023-05-15 20:40:09,441 Error: can't multiply sequence by non-int of type 'float'
-2023-05-15 20:40:09,441 
-2023-05-15 20:40:09,442 TRY: Call get_circle_areas_given_list() function with a list of GOOD values
-2023-05-15 20:40:09,442 CALLING get_circle_area([5, 10, 25, 30, 45, 50])
-2023-05-15 20:40:09,442 CALLING get_circle_area(5)
-2023-05-15 20:40:09,442 The circle area is 31.41592653589793
-2023-05-15 20:40:09,442 r = 5, area=31.41592653589793
-2023-05-15 20:40:09,442 CALLING get_circle_area(10)
-2023-05-15 20:40:09,442 The circle area is 62.83185307179586
-2023-05-15 20:40:09,442 r = 10, area=62.83185307179586
-2023-05-15 20:40:09,442 CALLING get_circle_area(25)
-2023-05-15 20:40:09,442 The circle area is 157.07963267948966
-2023-05-15 20:40:09,442 r = 25, area=157.07963267948966
-2023-05-15 20:40:09,442 CALLING get_circle_area(30)
-2023-05-15 20:40:09,442 The circle area is 188.49555921538757
-2023-05-15 20:40:09,442 r = 30, area=188.49555921538757
-2023-05-15 20:40:09,442 CALLING get_circle_area(45)
-2023-05-15 20:40:09,442 The circle area is 282.7433388230814
-2023-05-15 20:40:09,442 r = 45, area=282.7433388230814
-2023-05-15 20:40:09,442 CALLING get_circle_area(50)
-2023-05-15 20:40:09,442 The circle area is 314.1592653589793
-2023-05-15 20:40:09,442 r = 50, area=314.1592653589793
-2023-05-15 20:40:09,443 
-2023-05-15 20:40:09,443 TRY: Call get_circle_areas_given_list() function with a list that may include BAD values
-2023-05-15 20:40:09,443 CALLING get_circle_area([-5, 0, inf, '30'])
-2023-05-15 20:40:09,443 CALLING get_circle_area(-5)
-2023-05-15 20:40:09,443 The circle area is -31.41592653589793
-2023-05-15 20:40:09,443 r = -5, area=-31.41592653589793
-2023-05-15 20:40:09,443 CALLING get_circle_area(0)
-2023-05-15 20:40:09,443 The circle area is 0.0
-2023-05-15 20:40:09,443 r = 0, area=0.0
-2023-05-15 20:40:09,443 CALLING get_circle_area(inf)
-2023-05-15 20:40:09,443 The circle area is inf
-2023-05-15 20:40:09,443 r = inf, area=inf
-2023-05-15 20:40:09,443 CALLING get_circle_area(30)
-2023-05-15 20:40:09,443 Error: can't multiply sequence by non-int of type 'float'
-2023-05-15 20:40:09,443 r = 30, area=None
+2023-05-16 00:42:38,389 =============================================================
+2023-05-16 00:42:38,389 =============================================================
+2023-05-16 00:42:38,390 Today is 2023-05-16 at 12:42 AM
+2023-05-16 00:42:38,390 This file is running on: posix Darwin 20.6.0
+2023-05-16 00:42:38,390 The Python version is: 3.11.3
+2023-05-16 00:42:38,390 The active conda environment is:  None
+2023-05-16 00:42:38,390 The active pip environment is:    None
+2023-05-16 00:42:38,390 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-16 00:42:38,391 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-16 00:42:38,391 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-16 00:42:38,391 =============================================================
+2023-05-16 00:42:38,391 =============================================================
+2023-05-16 00:42:38,391 Explore some functions in the math module
+2023-05-16 00:42:38,391 math.comb(5,1) = 5
+2023-05-16 00:42:38,391 math.perm(5,1) = 5
+2023-05-16 00:42:38,391 math.comb(4,2) = 10
+2023-05-16 00:42:38,391 math.perm(4,2) = 60
+2023-05-16 00:42:38,392 math.pi = 3.141592653589793
+2023-05-16 00:42:38,392 math.degrees(2 * math.pi) = 360.0
+2023-05-16 00:42:38,392 math.radians(180)         = 3.141592653589793
+2023-05-16 00:42:38,392 
+2023-05-16 00:42:38,392 TRY: Call circle_area_input_radius() function with a different values.
+2023-05-16 00:42:38,392 CALLING get_circle_area(5)
+2023-05-16 00:42:38,392 The circle area is 78.53981633974483
+2023-05-16 00:42:38,392 CALLING get_circle_area(-16)
+2023-05-16 00:42:38,392 The circle area is 804.247719318987
+2023-05-16 00:42:38,392 CALLING get_circle_area(inf)
+2023-05-16 00:42:38,392 The circle area is inf
+2023-05-16 00:42:38,392 CALLING get_circle_area(five)
+2023-05-16 00:42:38,393 Error: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+2023-05-16 00:42:38,393 
+2023-05-16 00:42:38,393 TRY: Call get_circle_areas_given_list() function with a list of GOOD values
+2023-05-16 00:42:38,393 CALLING get_circle_area([5, 10, 25, 30, 45, 50])
+2023-05-16 00:42:38,393 CALLING get_circle_area(5)
+2023-05-16 00:42:38,393 The circle area is 78.53981633974483
+2023-05-16 00:42:38,393 r = 5, area=78.53981633974483
+2023-05-16 00:42:38,393 CALLING get_circle_area(10)
+2023-05-16 00:42:38,393 The circle area is 314.1592653589793
+2023-05-16 00:42:38,393 r = 10, area=314.1592653589793
+2023-05-16 00:42:38,393 CALLING get_circle_area(25)
+2023-05-16 00:42:38,393 The circle area is 1963.4954084936207
+2023-05-16 00:42:38,393 r = 25, area=1963.4954084936207
+2023-05-16 00:42:38,393 CALLING get_circle_area(30)
+2023-05-16 00:42:38,393 The circle area is 2827.4333882308138
+2023-05-16 00:42:38,393 r = 30, area=2827.4333882308138
+2023-05-16 00:42:38,393 CALLING get_circle_area(45)
+2023-05-16 00:42:38,393 The circle area is 6361.725123519331
+2023-05-16 00:42:38,394 r = 45, area=6361.725123519331
+2023-05-16 00:42:38,394 CALLING get_circle_area(50)
+2023-05-16 00:42:38,394 The circle area is 7853.981633974483
+2023-05-16 00:42:38,394 r = 50, area=7853.981633974483
+2023-05-16 00:42:38,394 
+2023-05-16 00:42:38,394 TRY: Call get_circle_areas_given_list() function with a list that may include BAD values
+2023-05-16 00:42:38,394 CALLING get_circle_area([-5, 0, inf, '30'])
+2023-05-16 00:42:38,394 CALLING get_circle_area(-5)
+2023-05-16 00:42:38,394 The circle area is 78.53981633974483
+2023-05-16 00:42:38,394 r = -5, area=78.53981633974483
+2023-05-16 00:42:38,394 CALLING get_circle_area(0)
+2023-05-16 00:42:38,394 The circle area is 0.0
+2023-05-16 00:42:38,394 r = 0, area=0.0
+2023-05-16 00:42:38,394 CALLING get_circle_area(inf)
+2023-05-16 00:42:38,394 The circle area is inf
+2023-05-16 00:42:38,394 r = inf, area=inf
+2023-05-16 00:42:38,394 CALLING get_circle_area(30)
+2023-05-16 00:42:38,394 Error: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+2023-05-16 00:42:38,394 r = 30, area=None
