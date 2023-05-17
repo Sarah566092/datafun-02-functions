@@ -1,0 +1,33 @@
+2023-05-16 21:23:16,921 =============================================================
+2023-05-16 21:23:16,922 =============================================================
+2023-05-16 21:23:16,922 Today is 2023-05-16 at 09:23 PM
+2023-05-16 21:23:16,922 This file is running on: posix Darwin 20.6.0
+2023-05-16 21:23:16,922 The Python version is: 3.11.3
+2023-05-16 21:23:16,923 The active conda environment is:  None
+2023-05-16 21:23:16,923 The active pip environment is:    None
+2023-05-16 21:23:16,923 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-16 21:23:16,923 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-16 21:23:16,923 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-16 21:23:16,923 =============================================================
+2023-05-16 21:23:16,923 =============================================================
+2023-05-16 21:23:16,923 Created: NumericFoodSeries with name=Week 1 Journal, units=calories, meal=Breakfast, and 4 data points: [120, 250, 200, 300]
+2023-05-16 21:23:16,924 Created: NumericFoodSeries with name=Week 1 Journal, units=calories, meal=Lunch, and 7 data points: [350, 450, 180, 500, 650, 390, 230]
+2023-05-16 21:23:16,924 Created: NumericFoodSeries with name=Week 1 Journal, units=calories, meal=Dinner, and 6 data points: [600, 890, 1200, 800, 1000, 1230]
+2023-05-16 21:23:16,924 NumericFoodSeries with name=Week 1 Journal, units=calories, meal=Breakfast, and 4 data points: [120, 250, 200, 300]
+2023-05-16 21:23:16,924 Count: 4
+2023-05-16 21:23:16,924 Sum: 870
+2023-05-16 21:23:16,924 Mean: 217.5
+2023-05-16 21:23:16,924 Median: 225.0
+2023-05-16 21:23:16,924 ------------------
+2023-05-16 21:23:16,924 NumericFoodSeries with name=Week 1 Journal, units=calories, meal=Lunch, and 7 data points: [350, 450, 180, 500, 650, 390, 230]
+2023-05-16 21:23:16,924 Count: 7
+2023-05-16 21:23:16,924 Sum: 2750
+2023-05-16 21:23:16,924 Mean: 392.85714285714283
+2023-05-16 21:23:16,924 Median: 390
+2023-05-16 21:23:16,924 ------------------
+2023-05-16 21:23:16,925 NumericFoodSeries with name=Week 1 Journal, units=calories, meal=Dinner, and 6 data points: [600, 890, 1200, 800, 1000, 1230]
+2023-05-16 21:23:16,925 Count: 6
+2023-05-16 21:23:16,925 Sum: 5720
+2023-05-16 21:23:16,925 Mean: 953.3333333333334
+2023-05-16 21:23:16,925 Median: 945.0
+2023-05-16 21:23:16,925 ------------------

@@ -1,33 +1,33 @@
-2023-05-15 21:37:18,613 =============================================================
-2023-05-15 21:37:18,613 =============================================================
-2023-05-15 21:37:18,613 Today is 2023-05-15 at 09:37 PM
-2023-05-15 21:37:18,614 This file is running on: posix Darwin 20.6.0
-2023-05-15 21:37:18,614 The Python version is: 3.11.3
-2023-05-15 21:37:18,614 The active conda environment is:  None
-2023-05-15 21:37:18,614 The active pip environment is:    None
-2023-05-15 21:37:18,614 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
-2023-05-15 21:37:18,614 The current working directory is: /Users/sarah/Documents/datafun-02-functions
-2023-05-15 21:37:18,615 This source file is in:           /Users/sarah/Documents/datafun-02-functions
-2023-05-15 21:37:18,615 =============================================================
-2023-05-15 21:37:18,615 =============================================================
-2023-05-15 21:37:18,615 Created: NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
-2023-05-15 21:37:18,615 Created: NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
-2023-05-15 21:37:18,615 Created: NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
-2023-05-15 21:37:18,615 NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
-2023-05-15 21:37:18,615 Count: 6
-2023-05-15 21:37:18,615 Sum: 54
-2023-05-15 21:37:18,616 Mean: 9.0
-2023-05-15 21:37:18,616 Median: 9.0
-2023-05-15 21:37:18,616 ------------------
-2023-05-15 21:37:18,616 NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
-2023-05-15 21:37:18,616 Count: 8
-2023-05-15 21:37:18,616 Sum: 74
-2023-05-15 21:37:18,616 Mean: 9.25
-2023-05-15 21:37:18,616 Median: 10.0
-2023-05-15 21:37:18,616 ------------------
-2023-05-15 21:37:18,616 NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
-2023-05-15 21:37:18,616 Count: 4
-2023-05-15 21:37:18,616 Sum: 34
-2023-05-15 21:37:18,616 Mean: 8.5
-2023-05-15 21:37:18,616 Median: 8.5
-2023-05-15 21:37:18,616 ------------------
+2023-05-16 20:35:01,048 =============================================================
+2023-05-16 20:35:01,049 =============================================================
+2023-05-16 20:35:01,049 Today is 2023-05-16 at 08:35 PM
+2023-05-16 20:35:01,049 This file is running on: posix Darwin 20.6.0
+2023-05-16 20:35:01,049 The Python version is: 3.11.3
+2023-05-16 20:35:01,049 The active conda environment is:  None
+2023-05-16 20:35:01,049 The active pip environment is:    None
+2023-05-16 20:35:01,049 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-16 20:35:01,049 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-16 20:35:01,049 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-16 20:35:01,049 =============================================================
+2023-05-16 20:35:01,049 =============================================================
+2023-05-16 20:35:01,050 Created: NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-05-16 20:35:01,050 Created: NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-05-16 20:35:01,050 Created: NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-05-16 20:35:01,050 NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-05-16 20:35:01,050 Count: 6
+2023-05-16 20:35:01,050 Sum: 54
+2023-05-16 20:35:01,050 Mean: 9.0
+2023-05-16 20:35:01,050 Median: 9.0
+2023-05-16 20:35:01,050 ------------------
+2023-05-16 20:35:01,050 NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-05-16 20:35:01,050 Count: 8
+2023-05-16 20:35:01,050 Sum: 74
+2023-05-16 20:35:01,050 Mean: 9.25
+2023-05-16 20:35:01,050 Median: 10.0
+2023-05-16 20:35:01,050 ------------------
+2023-05-16 20:35:01,050 NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-05-16 20:35:01,050 Count: 4
+2023-05-16 20:35:01,050 Sum: 34
+2023-05-16 20:35:01,050 Mean: 8.5
+2023-05-16 20:35:01,050 Median: 8.5
+2023-05-16 20:35:01,050 ------------------
