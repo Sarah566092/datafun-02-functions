@@ -1,57 +1,57 @@
-2023-05-16 09:41:59,270 =============================================================
-2023-05-16 09:41:59,270 =============================================================
-2023-05-16 09:41:59,271 Today is 2023-05-16 at 09:41 AM
-2023-05-16 09:41:59,272 This file is running on: posix Darwin 20.6.0
-2023-05-16 09:41:59,272 The Python version is: 3.11.3
-2023-05-16 09:41:59,272 The active conda environment is:  None
-2023-05-16 09:41:59,272 The active pip environment is:    None
-2023-05-16 09:41:59,273 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
-2023-05-16 09:41:59,273 The current working directory is: /Users/sarah/Documents/datafun-02-functions
-2023-05-16 09:41:59,273 This source file is in:           /Users/sarah/Documents/datafun-02-functions
-2023-05-16 09:41:59,273 =============================================================
-2023-05-16 09:41:59,273 =============================================================
-2023-05-16 09:41:59,273 CALLING add_two(5,5)
-2023-05-16 09:41:59,273 RETURNING 10
-2023-05-16 09:41:59,273 CALLING add_triangle_list([5, 5, 5])
-2023-05-16 09:41:59,273 RETURNING 15
-2023-05-16 09:41:59,273 CALLING add_any_using_args((2,))
-2023-05-16 09:41:59,273 RETURNING 2
-2023-05-16 09:41:59,273 CALLING add_any_using_args((2, 2))
-2023-05-16 09:41:59,273 RETURNING 4
-2023-05-16 09:41:59,274 CALLING add_any_using_args((2, 2, 2))
-2023-05-16 09:41:59,274 RETURNING 6
-2023-05-16 09:41:59,274 CALLING add_any_using_args((2, 2, 2, 2))
-2023-05-16 09:41:59,274 RETURNING 8
-2023-05-16 09:41:59,274 CALLING add_any_with_keywords({'a': 8, 'b': 2})
-2023-05-16 09:41:59,274 RETURNING 10
-2023-05-16 09:41:59,274 CALLING add_any_with_keywords({'first': 8, 'second': 2, 'third': 3})
-2023-05-16 09:41:59,274 RETURNING 13
-2023-05-16 09:41:59,274 CALLING add_any_with_keywords({'only': 8})
-2023-05-16 09:41:59,274 RETURNING 8
-2023-05-16 09:41:59,274 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
-2023-05-16 09:41:59,274 RETURNING bearcat
-2023-05-16 09:41:59,274 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
-2023-05-16 09:41:59,274 RETURNING tacraeb
-2023-05-16 09:41:59,274 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
-2023-05-16 09:41:59,274 RETURNING olleh
-2023-05-16 09:41:59,274 ===========================================================
-2023-05-16 09:41:59,274 Running doctest.testmod() function to unit test our code
-2023-05-16 09:41:59,274 ===========================================================
-2023-05-16 09:41:59,299 CALLING add_two(1,2)
-2023-05-16 09:41:59,299 RETURNING 3
-2023-05-16 09:41:59,299 CALLING add_two(hello, world)
-2023-05-16 09:41:59,299 RETURNING hello world
-2023-05-16 09:41:59,300 CALLING add_triangle_list([3, 4, 5])
-2023-05-16 09:41:59,300 RETURNING 12
-2023-05-16 09:41:59,300 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
-2023-05-16 09:41:59,300 RETURNING bearcat
-2023-05-16 09:41:59,300 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
-2023-05-16 09:41:59,300 RETURNING tacraeb
-2023-05-16 09:41:59,300 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
-2023-05-16 09:41:59,300 RETURNING olleh
-2023-05-16 09:41:59,300 CALLING add_any_using_args((1, 1, 1, 1, 1, 1, 1, 1))
-2023-05-16 09:41:59,300 RETURNING 8
-2023-05-16 09:41:59,300 CALLING add_any_with_keywords({'a': 1, 'b': 2})
-2023-05-16 09:41:59,300 RETURNING 3
-2023-05-16 09:41:59,301 All tests passed!
-2023-05-16 09:41:59,301 Script complete. More info in the log file.
+2023-05-16 22:08:41,726 =============================================================
+2023-05-16 22:08:41,727 =============================================================
+2023-05-16 22:08:41,727 Today is 2023-05-16 at 10:08 PM
+2023-05-16 22:08:41,728 This file is running on: posix Darwin 20.6.0
+2023-05-16 22:08:41,728 The Python version is: 3.11.3
+2023-05-16 22:08:41,728 The active conda environment is:  None
+2023-05-16 22:08:41,729 The active pip environment is:    None
+2023-05-16 22:08:41,729 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-16 22:08:41,729 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-16 22:08:41,729 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-16 22:08:41,729 =============================================================
+2023-05-16 22:08:41,729 =============================================================
+2023-05-16 22:08:41,730 CALLING add_two(5,5)
+2023-05-16 22:08:41,730 RETURNING 10
+2023-05-16 22:08:41,730 CALLING add_triangle_list([5, 5, 5])
+2023-05-16 22:08:41,730 RETURNING 15
+2023-05-16 22:08:41,730 CALLING add_any_using_args((2,))
+2023-05-16 22:08:41,730 RETURNING 2
+2023-05-16 22:08:41,730 CALLING add_any_using_args((2, 2))
+2023-05-16 22:08:41,730 RETURNING 4
+2023-05-16 22:08:41,730 CALLING add_any_using_args((2, 2, 2))
+2023-05-16 22:08:41,730 RETURNING 6
+2023-05-16 22:08:41,730 CALLING add_any_using_args((2, 2, 2, 2))
+2023-05-16 22:08:41,730 RETURNING 8
+2023-05-16 22:08:41,730 CALLING add_any_with_keywords({'a': 8, 'b': 2})
+2023-05-16 22:08:41,730 RETURNING 10
+2023-05-16 22:08:41,730 CALLING add_any_with_keywords({'first': 8, 'second': 2, 'third': 3})
+2023-05-16 22:08:41,730 RETURNING 13
+2023-05-16 22:08:41,730 CALLING add_any_with_keywords({'only': 8})
+2023-05-16 22:08:41,730 RETURNING 8
+2023-05-16 22:08:41,730 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-05-16 22:08:41,730 RETURNING bearcat
+2023-05-16 22:08:41,730 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-05-16 22:08:41,730 RETURNING tacraeb
+2023-05-16 22:08:41,731 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-05-16 22:08:41,731 RETURNING olleh
+2023-05-16 22:08:41,731 ===========================================================
+2023-05-16 22:08:41,731 Running doctest.testmod() function to unit test our code
+2023-05-16 22:08:41,731 ===========================================================
+2023-05-16 22:08:41,737 CALLING add_two(1,2)
+2023-05-16 22:08:41,737 RETURNING 3
+2023-05-16 22:08:41,737 CALLING add_two(hello, world)
+2023-05-16 22:08:41,737 RETURNING hello world
+2023-05-16 22:08:41,738 CALLING add_triangle_list([3, 4, 5])
+2023-05-16 22:08:41,738 RETURNING 12
+2023-05-16 22:08:41,738 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-05-16 22:08:41,738 RETURNING bearcat
+2023-05-16 22:08:41,738 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-05-16 22:08:41,738 RETURNING tacraeb
+2023-05-16 22:08:41,738 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-05-16 22:08:41,738 RETURNING olleh
+2023-05-16 22:08:41,738 CALLING add_any_using_args((1, 1, 1, 1, 1, 1, 1, 1))
+2023-05-16 22:08:41,738 RETURNING 8
+2023-05-16 22:08:41,738 CALLING add_any_with_keywords({'a': 1, 'b': 2})
+2023-05-16 22:08:41,738 RETURNING 3
+2023-05-16 22:08:41,739 All tests passed!
+2023-05-16 22:08:41,739 Script complete. More info in the log file.
