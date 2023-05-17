@@ -1,0 +1,39 @@
+2023-05-16 20:17:52,032 =============================================================
+2023-05-16 20:17:52,032 =============================================================
+2023-05-16 20:17:52,032 Today is 2023-05-16 at 08:17 PM
+2023-05-16 20:17:52,033 This file is running on: posix Darwin 20.6.0
+2023-05-16 20:17:52,033 The Python version is: 3.11.3
+2023-05-16 20:17:52,033 The active conda environment is:  None
+2023-05-16 20:17:52,033 The active pip environment is:    None
+2023-05-16 20:17:52,033 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-16 20:17:52,033 The current working directory is: /Users/sarah/Documents/datafun-02-functions
+2023-05-16 20:17:52,033 This source file is in:           /Users/sarah/Documents/datafun-02-functions
+2023-05-16 20:17:52,033 =============================================================
+2023-05-16 20:17:52,033 =============================================================
+2023-05-16 20:17:52,033 hot dog sales on different days = [5, 11, 14, 19, 25, 31, 37, 39, 44, 49, 55, 63, 69]
+2023-05-16 20:17:52,041 mean   = 35.46
+2023-05-16 20:17:52,041 median = 37.00
+2023-05-16 20:17:52,041 mode   = 5.00
+2023-05-16 20:17:52,042 var    = 410.27
+2023-05-16 20:17:52,042 stdev  = 20.26
+2023-05-16 20:17:52,042 lowest = 5
+2023-05-16 20:17:52,042 highest= 69
+2023-05-16 20:17:52,042 range = 64
+2023-05-16 20:17:52,042 Correlation requires Python version 3.10 or greater.
+2023-05-16 20:17:52,042 Your version is 3.11
+2023-05-16 20:17:52,043 Here's some data on hot dog sales depending on how many condiments are availble on a food truck:
+2023-05-16 20:17:52,043 Number of condiments today:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+2023-05-16 20:17:52,043 Hot Dog Sales today:[5, 11, 14, 19, 25, 31, 37, 39, 44, 49, 55, 63, 69]
+2023-05-16 20:17:52,043 correlation between condiments and condiments = 1.00
+2023-05-16 20:17:52,043 correlation between condiments and hot dog sales = 1.00
+2023-05-16 20:17:52,043 Here's some bivariant data (2 variables, together):
+2023-05-16 20:17:52,043 x:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+2023-05-16 20:17:52,043 y:[5, 11, 14, 19, 25, 31, 37, 39, 44, 49, 55, 63, 69]
+2023-05-16 20:17:52,043 Calculate the slope and intercept of a best fit straight line:
+2023-05-16 20:17:52,043    slope = 5.19
+2023-05-16 20:17:52,043    intercept = -0.85
+2023-05-16 20:17:52,043 Let's use our best fit line to PREDICT a future value.
+2023-05-16 20:17:52,043    If we provide 15 condiments on the food truck = 15,
+2023-05-16 20:17:52,043    we predict the value of hot dog sales will be 77.
+2023-05-16 20:17:52,043 15 condiments is a lot!!!
+2023-05-16 20:17:52,043 Remember to close the app. Control c (or d or z maybe) to close it.
